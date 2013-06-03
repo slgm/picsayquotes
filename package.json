@@ -1,0 +1,6 @@
+{
+    "name": "my-awesome-application",
+    "dependencies": {
+        "nodefly": "stable"
+    }
+}
